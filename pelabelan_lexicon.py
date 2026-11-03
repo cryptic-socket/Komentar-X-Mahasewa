@@ -8,23 +8,21 @@ kata_positif = [
     'bagus', 'keren', 'mantap', 'dukung', 'bela', 'setuju', 'semangat', 
     'hebat', 'pintar', 'cerdas', 'maju', 'pro', 'baik', 'bener', 'hidup',
     'wangi', 'bersih', 'asli', 'murni', 'pinter', 'sukses', 'jujur', 
-    'membanggakan', 'harum', 'lancar','memajukan',""
+    'membanggakan', 'harum', 'lancar'
 ]
 
 kata_negatif = [
     'sewa', 'bayar', 'buzzer', 'tolol', 'bodoh', 'jelek', 'kampungan', 
     'dungu', 'goblok', 'anjing', 'jamet', 'miskin', 'hancur', 'palsu', 
     'bohong', 'gadungan', 'malu', 'aneh', 'sampah', 'gembel', 'kontol', 
-    'bayaran', 'rusak', 'bego', 'miris', 'najis', 'dekil',
+    'bayaran', 'mahasewa', 'rusak', 'bego', 'miris', 'najis', 'dekil',
     'maharental', 'kumuh', 'plenger', 'jigong', 'boti', 'ngarang', 
     'pengkhianat', 'dongo', 'ajg', 'kntl', 'bajingan', 'penjilat', 
     'korup', 'bloon', 'preman', 'ngamen', 'pengamen', 'warkop', 
     'rental', 'pansos', 'kusam', 'burik', 'bau', 'buladig', 'zolim', 
     'cosplay', 'sandiwara', 'bodong', 'cepe', 'receh', 'nasi', 
     'mabok', 'miras', 'judol', 'beler', 'komuk', 'tua', 'bikin malu',
-    'abal', 'abal-abal', 'pulu-pulu', 'dongo', 'sindikat', 'lucu', 'kocak','bayaran','gembel','sewaan',
-    'taikk','anj','bngst','hell nawhh', 'biadapp','jamet','dekil','aneh', 'biadab','bahlul','pecandu judol dan miras',
-    'taek','zolim','palsu','ngarang', 'penjahat','gak berpendidikan',''
+    'abal', 'abal-abal', 'pulu-pulu', 'dongo', 'sindikat', 'lucu', 'kocak'
 ]
 
 def hitung_sentimen(text):
